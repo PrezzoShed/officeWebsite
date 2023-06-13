@@ -68,15 +68,13 @@
   
         <div class="text-gray-400 text-sm">
   
-          <p>Email: <a href="mailto:contact@yourdomain.com" class="hover:text-gray-100 transition-all delay-200 duration-300">info@prezzogroup.com.ng</a></p>
-  
-          <p class="pt-1">Phone: <a href="tel:+234-9041750696" class="hover:text-gray-100 transition-all delay-200 duration-300">+234-9041750696</a></p>
+          <p>Email: <a href="mailto:info@prezzogroup.com.ng" class="hover:text-gray-100 transition-all delay-200 duration-300">info@prezzogroup.com.ng</a></p>
           
           <p class="pt-1">Phone: <a href="tel:+234-8033026616" class="hover:text-gray-100 transition-all delay-200 duration-300">+234-9041750696</a></p>
           
           <address class="pt-1 hover:text-gray-100 transition-all delay-200 duration-300">
             <p>No 6, Lumsar Street, Abacha Estate, Zone 4, Wuse,</p>
-            <p>Abuja</p>
+            <p>Abuja.</p>
           </address>
           
           <div  class=" flex gap-[1rem] pt-3">
