@@ -37,7 +37,6 @@
         <div class=" flex flex-col items-center justify-center bg-white p-[2rem] gap-[1rem] rounded-md shadow-lg w-[17rem]">
             <small class="  font-bold text-xl lg:font-extrabold lg:text-3xl"><i class='bx bx-phone-incoming' ></i></small>
             <h3>Phone</h3>
-            <span>+234-9041750696</span>
             <span>+234-8033026616</span>
         </div>
         
@@ -52,7 +51,7 @@
             <small class="  font-bold text-xl lg:font-extrabold lg:text-3xl"><i class='bx bx-time'></i></small>
             <h3>Available</h3>
             <span>Monday - Friday</span>
-            <span>8:00AM - 6:00PM</span>
+            <span>8:00AM - 5:00PM</span>
         </div>
         
         
