@@ -30,14 +30,14 @@
             <small class="  font-bold text-xl lg:font-extrabold lg:text-3xl"><i class='bx bx-location-plus'></i></small>
             <h3>Address</h3>
             <span>NO 6, Lumsar street, Abacha</span>
-            <span>Estate, Zone 4, Abuja</span>
+            <span>Estate, Zone 4, Abuja.</span>
         </div>
         
         
         <div class=" flex flex-col items-center justify-center bg-white p-[2rem] gap-[1rem] rounded-md shadow-lg w-[17rem]">
             <small class="  font-bold text-xl lg:font-extrabold lg:text-3xl"><i class='bx bx-phone-incoming' ></i></small>
             <h3>Phone</h3>
-            <span>+234-8033026616</span>
+            <span>+234-803-302-6616</span>
         </div>
         
         <div class=" flex flex-col items-center justify-center bg-white px-[2rem] py-[3.3rem] gap-[1rem] rounded-md shadow-lg w-[17rem]">
