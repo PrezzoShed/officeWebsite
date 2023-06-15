@@ -13,7 +13,7 @@ if(!production){
 
 
 if(production){
-    url = 'http://41.242.51.98:8000/'
-    mediaurl='http://41.242.51.98:8000'
+    url = 'http://41.242.51.98:8790/'
+    mediaurl='http://41.242.51.98:8790'
 
 }
