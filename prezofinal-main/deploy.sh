@@ -4,3 +4,5 @@ echo "staring django server..."
 echo "django server started"
 
 echo "Starting client side..."
+
+./prezzo/start.sh
