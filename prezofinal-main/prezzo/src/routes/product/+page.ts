@@ -10,6 +10,7 @@ export const load = async ({fetch}) =>{
         }
     }
 
-    throw error(404)
+    
+    // throw error(404)
  
 }
